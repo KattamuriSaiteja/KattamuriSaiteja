@@ -26,4 +26,4 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" height="26" width="26px" src="https://user-images.githubusercontent.com/89560113/132970569-b6f9aa3e-a475-4e7c-bfe1-dc569a175cf0.jpeg" />
 
-<img align="left" alt="Git" height = "26px" width="26px" src="https://user-images.githubusercontent.com/89560113/132970569-b6f9aa3e-a475-4e7c-bfe1-dc569a175cf0.jpeg" />
+<img align="left" alt="Git" height = "26px" width="26px" src="https://user-images.githubusercontent.com/89560113/132970671-c385a603-780a-4900-a93c-bbb5ac273903.png" />
